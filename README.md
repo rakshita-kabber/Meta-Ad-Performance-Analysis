@@ -2,9 +2,9 @@
 
 ## 📊 Project Overview
 
-Welcome to my **Meta Ads Performance Dashboard**, built using **Power BI**. This dashboard provides deep insights into ad campaigns across Facebook and Instagram, helping to optimize performance and maximize ROI.
+Welcome to my **Meta Ads Performance Dashboard**, built using **Power BI**. This dashboard provides deep insights into ad campaigns across Facebook and Instagram, helping to optimize performance and maximize ROI.                                                                                                                    
+The purpose of this dataset is to analyse advertising performance, optimize targeting, and measure ROI (Return on Investment).
 
-![Meta Ads Dashboard Preview](https://github.com/rakshita-kabber/Meta-Ad-Performance-Analysis/blob/main/Snapshot%20of%20the%20Dashboard.jpg?raw=true)
 
 ---
 
