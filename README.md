@@ -49,6 +49,15 @@ Welcome to my **Meta Ads Performance Dashboard**, built using **Power BI**. This
 
 ---
 
+---
+
+## 👩‍💻 Created By
+
+**RAKSHITA KABBER**  
+
+  🔗 [LinkedIn](https://www.linkedin.com/in/rakshitakabber)    
+
+> Passionate about **Data Analytics, Power BI, and Dashboard Development**.
 
 
 
