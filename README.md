@@ -1,5 +1,3 @@
-# Meta-Ad-Performance-Analysis
-
 # ❄️ Meta Ad Performance Dashboard
 
 Welcome to my **Meta Ads Performance Dashboard**, built using **Power BI**. This dashboard provides deep insights into ad campaigns across Facebook and Instagram, helping to optimize performance and maximize ROI.
